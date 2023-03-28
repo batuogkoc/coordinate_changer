@@ -1,1 +1,1 @@
-from .coordinate_changer import *
+from .coordinate_changer import egm96ToEllipsoid, ellipsoidToEgm96, meanSeaLevel
